@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "308426399527",
+    "project_id": "flyingdonkey-ee7c1",
+    "storage_bucket": "flyingdonkey-ee7c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308426399527:android:57c7360a7e2c62d0aad302",
+        "android_client_info": {
+          "package_name": "com.fd.flyingdonkey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308426399527-duptvrs7hh0jopk3k6apimufb8f9a313.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJdWerkUpw38Unt3rjQVcIxK4ORFm_8cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308426399527-duptvrs7hh0jopk3k6apimufb8f9a313.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "308426399527-nf345c4oj1ucb7u54ooh9c6t34kc9029.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fd.flyingdonkey"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
